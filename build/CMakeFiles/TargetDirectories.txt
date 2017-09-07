@@ -1,3 +1,0 @@
-E:/Program Files/CMake/New folder/build/CMakeFiles/Hello.dir
-E:/Program Files/CMake/New folder/build/CMakeFiles/ALL_BUILD.dir
-E:/Program Files/CMake/New folder/build/CMakeFiles/ZERO_CHECK.dir

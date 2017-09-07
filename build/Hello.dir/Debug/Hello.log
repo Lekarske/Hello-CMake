@@ -1,5 +1,0 @@
-﻿  Building Custom Rule E:/Program Files/CMake/New folder/CMakeLists.txt
-  CMake does not need to re-run because E:/Program Files/CMake/New folder/build/CMakeFiles/generate.stamp is up-to-date.
-  hello.cpp
-  Hello.vcxproj -> E:\Program Files\CMake\New folder\build\Debug\Hello.exe
-  Hello.vcxproj -> E:/Program Files/CMake/New folder/build/Debug/Hello.pdb (Full PDB)
